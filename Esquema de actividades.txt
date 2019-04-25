@@ -1,0 +1,17 @@
+1 - BBDD -> Jorge, Sergio
+2 - GitHub -> Agustín
+3 - MVC -> Jorge, Sergio
+4 - Algoritmo (Librería) -> Marcos, Erika
+5 - Web API ->
+6 - OData ->
+7 - Fake Repository ->
+8 - Windows Form -> Moad
+8.1 - Implementar
+9 - HTML -> Mario
+9.1 - Implementar
+10 - Xamarin -> César, Adrián
+10.1 - Implementar
+11 - Librería Web API
+12 - Librería OData
+13 - CSS común Windows Forms, HTML y Xamarin -> Amaya
+14 - Documentación (Separado)
